@@ -5,3 +5,5 @@ def insurable?(age)
 end
 
 puts insurable?(55)
+puts insurable?(56)
+puts insurable?(57)
